@@ -34,6 +34,7 @@ b=95 ; // yes we can change it.
 a['city']="dhampur"; // yes we can
 console.log(a);
 
+
 a['name'] ="lalu" //yes, we can
 console.log(a);
 
