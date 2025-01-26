@@ -11,6 +11,7 @@ let a=45
 let b=8
 
 
+
 //same wle
  console.log("a + b =",a+b);
  console.log("a - b =",a-b);

@@ -6,6 +6,7 @@ let sentance =`${boy1} and ${boy2} are friend` // ` backtick iske ander hum doub
 console.log(sentance);
 
 
+
 let name="himanshu  "
 console.log(name.slice(2,5))
 console.log(name.slice(2))

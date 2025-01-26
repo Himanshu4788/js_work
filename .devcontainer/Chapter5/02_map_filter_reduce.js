@@ -31,6 +31,7 @@ console.log(btt);
 
 
 
+
 let ans=arr.reduce((i,j)=>{
     return i+j
 })

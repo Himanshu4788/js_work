@@ -8,7 +8,6 @@ let a=null;
 let b=2323;
 let c=true;
 
-
 let d= BigInt("567")
 let e="himu"
 let f=Symbol("i m  a himu")

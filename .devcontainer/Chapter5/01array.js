@@ -55,7 +55,6 @@ console.log(brr);//updated krarega
 console.log(deleted_value); // deleted value return karega
 
 
-
 let crr=brr.slice(1,3) // ye brr[1,2]
 console.log(crr);
 
