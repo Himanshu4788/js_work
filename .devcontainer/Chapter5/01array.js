@@ -48,6 +48,7 @@ brr.reverse()
 console.log(brr);
 
 
+
 let deleted_value =brr.splice(1,3, 1,100 , 1000) 
     //     konsi index se , kitne element hatake add krne hai , kon konse add krne hai .....
 

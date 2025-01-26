@@ -3,6 +3,7 @@
 
 
 
+
 //2.Demonstrate the use of switch-case statements
 const day = 3; // Replace with any number (1-7) to represent days of the week
 switch (day) {
