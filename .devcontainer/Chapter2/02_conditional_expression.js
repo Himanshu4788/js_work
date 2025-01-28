@@ -7,6 +7,7 @@ ye isme nhi chalega , iske liye sheedha site mai jao inspect kro and console pe 
 */
 
 /*
+
  
 conditonal statement same hi hai
 

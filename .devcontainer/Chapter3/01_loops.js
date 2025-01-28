@@ -18,6 +18,7 @@ let arr=[1,3,2,1,3,2]
 arr.forEach((it)=>{
     console.log(it);
     
+    
 })
 
 

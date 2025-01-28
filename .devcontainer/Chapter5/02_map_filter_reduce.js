@@ -8,7 +8,6 @@ reduce :- ye reduce krta hai array ko in a single value
 
 
 
-
 let arr=[45,23,24,1,3,4]
 
 

@@ -7,7 +7,6 @@ console.log(str); //output hello world2
 console.log(nums); //output hello world2
 
 
-
 //use typeof operation in above datatype.
 console.log(typeof(str));//string
 console.log(typeof(nums));//string

@@ -32,7 +32,6 @@ console.log(arr)
 
 
 
-
 let brr=[10,2 ,5] // ye isko as a string lega phle 1 ata hai toh 10 fir 2 ata hai toh 2 , ye alphabetical order dega naki maths wlai
 brr.sort()
 console.log(brr);

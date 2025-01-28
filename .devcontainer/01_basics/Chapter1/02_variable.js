@@ -7,7 +7,6 @@ let temp   //having undefined value.
 console.table([account_id , account_email , account_password , account_city])
 
 
-
 var a=45
 let b=10
 {

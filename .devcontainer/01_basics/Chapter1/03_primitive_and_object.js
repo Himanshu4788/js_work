@@ -4,7 +4,6 @@ there are 7 primitive data type
 NULL  ,  number , string , symbol, bigint, boolean , undefined..
 */
 
-
 let a=null;
 let b=2323;
 let c=true;

@@ -64,9 +64,7 @@ let b=8
   // <<1: 0000 1010 (10) 
   console.log(5 >> 1);//2
   
-  
-   
 
-
+console.log(Math.floor(3/2));
 
  
